@@ -10,11 +10,23 @@ The game randomly illuminates the colored quadrants, and at the same time that i
 * CSS
 * Vanilla JS
 
+## Libraries
+
+I used SweetAlert2 to show nice alerts in some statuses of the game
+
+* [SweetAlert2](https://sweetalert2.github.io)
+
 ## Usage
 
 1. Open index.html in the browser
 2. Click the '🕹 Press to start 🕹' button
 3. Play
+
+## Screenshots
+
+![Starting the game](https://i.gyazo.com/479075f182cae0f0e0fc7a2e5b598d8f.png)
+![Winning](https://i.gyazo.com/2ab63e399eb699e626dc0c9f09553fe4.png)
+![Losing](https://i.gyazo.com/ebbd14b14ed15b12b10f752196da5d43.png)
 
 ## Roadmap
 
