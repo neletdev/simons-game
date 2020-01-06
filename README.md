@@ -34,6 +34,7 @@ I used SweetAlert2 to show nice alerts in some statuses of the game
 - [ ] Add sound when the color is shown
 - [ ] Add sound when you win or lose
 - [ ] Add possibility of selecting the max level
+- [ ] Fix Gameboard on mobiles - Responsive
 - [ ] Add possibility of stop/restart the game
 - [ ] Add new visual styles to the game
 
